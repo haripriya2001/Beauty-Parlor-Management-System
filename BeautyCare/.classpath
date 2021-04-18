@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/priya/Documents/SIMPLILEARN DETAILS/SIMPLILEARN JAVA/VIRENDRA PROGRAMS AND JAR FILES/Jar Files/Servlet_JSP/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/Documents/SIMPLILEARN DETAILS/SIMPLILEARN JAVA/VIRENDRA PROGRAMS AND JAR FILES/Jar Files/Servlet_JSP/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/Documents/SIMPLILEARN DETAILS/SIMPLILEARN JAVA/VIRENDRA PROGRAMS AND JAR FILES/Jar Files/Servlet_JSP/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8"/>
+	<classpathentry kind="lib" path="E:/softwares/netbeans/itextpdf-5.3.5.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Database connectivity jars/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

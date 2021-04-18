@@ -1,0 +1,278 @@
+body{
+	margin:0px;
+	
+}
+
+.logo{
+	height: 70px;
+	width:70px;
+	border-radius: 50px;
+}
+
+.saloon-name a{
+	text-decoration:none;
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+	font-weight:bold;
+	font-size: 30px;
+}
+
+.sub-pages {
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
+	font-style:italic;
+	
+}
+.sub-pages a{
+	text-decoration:none;
+	color:white;
+	
+}
+.sub-pages:hover{
+	background-color:#ff3f34;
+	cursor:pointer;
+}
+
+.beautybanner{
+	margin:15px;
+	border-radius:75px;
+	border: 2px solid #2c2c54;
+}
+.beauty-quotes{
+	font-size: 30px;
+	font-style:italic;
+	font-weight:bold;
+	font-family: 'Caveat', cursive;
+	text-shadow: 2px 2px #ff6b81;
+	color:#2c2c54;
+}
+.formbg{
+	width: 500px;
+	border-radius:15px;
+	background-color:#ff6b81;
+	margin:15px;
+}
+.title{
+	font-size: 30px;
+	text-align: center;
+	font-weight:bold;
+	padding:30px;
+	color:#2c2c54;
+}
+.label{
+	font-size: 25px;
+	color:#2f3542;
+	font-style:italic;
+	display:block;
+}
+.input{
+	width:300px;
+	height:35px;
+	border-radius:10px;
+	border-color: black;
+	border:0px;
+	display:block;
+	margin-top:10px;
+	margin-bottom:20px;
+	
+}
+.click{
+	display:block;
+	width: 170px;
+	height: 30px;
+	border-radius:10px;
+	border:0px;
+	font-weight:bold;
+	font-size:15px;
+	background-color:#2c2c54;
+	color:white;
+	margin-bottom: 20px;
+	
+	margin-top:20px;
+	
+}
+.click:hover{
+	background-color:#d1ccc0;
+	color:black;
+}
+
+.AccessCategoryName{
+	color:white;
+	text-weight:bolder;
+	font-size: 35px;
+	text-align:center;
+	padding-left: 20px;
+	padding-top:20px;
+	font-family: 'Nerko One', cursive;
+	
+}
+.categoryContent{
+	text-align:center;
+	color:white;
+	font-size:20px;
+    padding:20px;	
+}
+.categoryContent a{
+	text-decoration:none;
+	color:white;
+}
+#icons{
+	padding-right:10px;
+	padding-botton:10px;
+	font-size: 25px;
+}
+.tablestyling{
+	text-align:center;
+	margin:40px;
+	
+}
+.thbg{
+	background-color:#3ae374;
+	font-size: 30px;
+	font-family: 'Langar', cursive;
+}
+.serv_bg
+{
+	background-color:#fffa65;
+	font-size:20px;
+	font-family: 'Caveat', cursive;
+	font-weight:bold;
+	
+}
+td .anchor_edit{
+	text-decoration:none;
+	
+}
+.contact_table{
+	text-align:center;
+	margin-bottom:30px;
+    margin-top:30px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#contact_icons{
+	font-size:25px;
+	padding-bottom:10px;
+	
+	
+}
+
+.contacting_Options{
+	font-size:30px;
+	padding-bottom:10px;
+	font-family: 'Satisfy', cursive;
+	text-shadow: 2px 2px #ff7675;
+}
+.contactUs_Details{
+	font-size:20px;
+	font-family: 'Courgette', cursive;
+}
+#AboutUs_Content {
+	font-size:17px;
+	font-family: 'Kalam', cursive;
+	margin:17px;
+	
+}
+#formbg-admin{
+	width: 500px;
+	border-radius:15px;
+	background-color:#ff6b81;
+	border: 2px solid #d1ccc0;
+    margin: 70px;
+}
+.Admin_Managements{
+	
+    text-decoration: none;
+    font-size:30px;
+   
+    align:center;
+    color:black;
+   font-family: 'Courgette', cursive; 
+    font-weight:bold;
+    
+   
+}
+.Ad_Mang_border{
+box-shadow: 4px 4px #2c2c54	
+}
+
+.arrange{
+	width:100%;
+	text-align:center;
+	
+}
+
+.arrange > div{
+width:calc(100% / 4);
+display:inline-block;
+vertical-align:top;
+border:1px solid #2c2c54;
+ background-color:#ff6b81;
+text-align:center;
+margin:2%;
+padding:20px;	
+}
+.admin_add_form{
+	background-color:#FC427B;
+	width:500px;
+	padding:20px;
+	margin:50px;
+	border-radius: 15px;
+	box-shadow: 10px 10px #2c2c54;
+	
+}
+.admin_add_title{
+	font-size:35px;
+	text-shadow:2px 2px #F8EFBA;
+}
+.admin_add_details{
+	padding:15px;
+	margin:15px;
+	width:250px;
+	font-size:25px;
+	background-color:#ffeaa7;
+	font-family: 'Courgette', cursive;
+	cursor:pointer;
+	border: 2px solid black;
+	text-color:
+	
+}	
+.label_arrange{
+	font-size:25px;
+	font-family: 'Courgette', cursive;
+	
+}
+.add_input{
+	width: 300px;
+	padding:10px;
+	border: 1px solid black;
+	box-shadow: 2px 2px #F8EFBA;
+	
+}
+.add_title{
+	font-size:35px;
+	margin-bottom:25px;
+	text-shadow:2px 2px #F8EFBA;
+	
+}
+.click_add,.click_home{
+	width: 300px;
+	height: 30px;
+	border-radius:10px;
+	border:0px;
+	font-weight:bold;
+	font-size:15px;
+	background-color:#2c2c54;
+	color:white;
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+.click_add:hover, .click_home:hover{
+	background-color:#d1ccc0;
+	color:black;
+}
+.rad {
+  font-size:20px;
+ }
+ 
